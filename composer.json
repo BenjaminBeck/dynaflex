@@ -1,0 +1,15 @@
+{
+  "name": "benjamin/dynaflex",
+  "type": "typo3-cms-extension",
+  "description": "mirror of https://svn.typo3.org/TYPO3v4/Extensions/dynaflex/ - only composer.json added - maybe deleted any time!!",
+  "version": "2.1.0",
+  "require": {
+    "typo3/cms": "6.2.x-dev"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/BenjminBeck/dynaflex.git"
+    }
+  ]
+}
